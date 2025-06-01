@@ -1,0 +1,36 @@
+.projects-page {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+  background-color: #fffaf5;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.projects-page h2 {
+  font-size: 28px;
+  color: #b3541e;
+  border-bottom: 2px solid #f29100;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.projects-page h3 {
+  font-size: 22px;
+  color: #e57300;
+  margin-top: 25px;
+}
+
+.projects-page ul {
+  margin-left: 20px;
+  padding-left: 20px;
+  list-style-type: square;
+  color: #444;
+}
+
+.projects-page ul li {
+  font-size: 15px;
+  margin-bottom: 8px;
+}

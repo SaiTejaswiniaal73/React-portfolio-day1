@@ -1,8 +1,10 @@
 .skills-page {
   padding: 40px;
   max-width: 800px;
-  margin: auto;
-  background-color: #f8faff;
+  margin: 50px auto;
+  /* background-color: #f8faff; */
+  /* background: linear-gradient(to right, #9be9f3, #6e4ee4); */
+  background-color: #f0faff;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   font-family: 'Segoe UI', sans-serif;

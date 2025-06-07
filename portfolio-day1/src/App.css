@@ -1,0 +1,28 @@
+/* .nav_bar{
+    background-color: rgba(205, 240, 255, 0.516);
+} */
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #fce4ec, #e0f7fa);
+  min-height: 100vh;
+}
+
+/* Container for whole app including navbar and content */
+.nav_bar {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Section for routed pages */
+.main_content {
+  flex: 1;
+  padding: 30px 20px;
+  background: rgba(255, 255, 255, 0.7); /* translucent card-like look */
+  border-radius: 15px;
+  margin: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}

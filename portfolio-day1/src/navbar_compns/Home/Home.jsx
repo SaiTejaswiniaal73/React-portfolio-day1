@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home-page">
       <h1>Hello, I'm Sai Tejaswini 👋</h1>
-      <p>Frontend Developer | HTML, CSS, JavaScript | Passionate about building beautiful web experiences.</p>
+      <p className="hi">Frontend Developer | HTML, CSS, JavaScript | Passionate about building beautiful web experiences.</p>
       <a href="/SaiTejaswini_Resume.pdf" download className="download-btn">📄 Download Resume</a>
     </div>
   );

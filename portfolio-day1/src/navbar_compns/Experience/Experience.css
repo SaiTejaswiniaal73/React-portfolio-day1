@@ -1,12 +1,15 @@
 .experience-page {
   padding: 40px;
   max-width: 900px;
-  margin: auto;
-  background-color: #f5faff;
+  /* margin: auto; */
+  margin: 40px auto;
+  /* background-color: #f5faff; */
+  background-color: #f0faff;
+  /* background: linear-gradient(to right, #9be9f3, #6e4ee4); */
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #333;
+  /* color: #333; */
 }
 
 .experience-page h2 {
@@ -25,7 +28,8 @@
 
 .experience-page p {
   font-size: 16px;
-  color: #666;
+  /* color: #666; */
+  color: #007acc;
   margin: 8px 0;
 }
 
